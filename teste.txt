@@ -1,0 +1,2 @@
+Agora eu quero adicionar uma nova configuração no teste.txt
+Agora eu estou adicionando uma nova configuraçao no teste e alterando o nome de texte para teste
