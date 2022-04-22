@@ -1,1 +1,2 @@
-...
+Agora eu quero adicionar uma nova configuração no teste.txt
+
